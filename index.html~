@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Proyecto Chaucha</title>
+	<title>Página Sergio</title>
 	<link href="./favicon.ico" rel="icon" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -121,7 +121,7 @@
 	<div class="hero-body">
 		<div class="container has-text-centered">
 			<h1 class="title PS2 fucsia is-size-3">Proyecto Chaucha</h1>
-			<h2 id="motto" class="subtitle comfortaa is-size-5">(insertar eslogan aquí)</h2>
+			<h2 id="motto" class="subtitle comfortaa is-size-5"></h2>
 		</div>
 	</div>
 </section>
