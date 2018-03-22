@@ -89,7 +89,7 @@
 						<a class="navbar-item" href="https://bitcointalk.org/index.php?topic=2144238.0" target="_blank">
 						idiomas
 						</a>
-						<a class="navbar-item" href="http://insight.chaucha.cl" target="_blank">
+						<a class="navbar-item" href="#Hobbies">
 						Hobbies
 						</a>
 						<a class="navbar-item" href="http://artesa.chaucha.cl/" target="_blank">
@@ -136,16 +136,20 @@
 		<h1 class="title is-size-3">
 			Quién soy?
 		</h1>
-			<p> Me llamo Sergio y soy estudiante de informática</p>
+			<p> Soy un chaval de Paterna me llamo Sergio y soy estudiante de informática y de bachiller, ademas de Español y Valenciano, que más quieres saber, si no has venido a que te cuente mi vida :) </p>
 	</div>
 </section>
 <section class="section" id="estudios">
-	<div class="container has-text-centered comfortaa">
+	<div class="container content has-text-centered comfortaa">
 		<h1 class="title is-size-3">
 			Estudios
 		</h1>
-		<img src=""/>    METER IMAGEN AQUÍ
+		<img src=" img/estudio.jpg" width="50%"/>
 			<p> He estudiado en el Liceo Hispano y estoy actualmente estudiando en IES Henri Matisse</p>
+			<ul>
+				<li>Estudié ESO en el Colegio Liceo Hispano de Paterna (2013-2017)</li>
+				<li>Estudie educación infantil en el Liceo Hispano de Paterna </li>
+			</ul>
 	</div>
 </section>
 <section class="section" id="objetivos">
@@ -153,6 +157,17 @@
 		<h1 class="title is-size-3">
 			Objetivos
 		</h1>
+		<img src="img/objetivo.jpg"  width="50%"/>
+		<p> Mis objetivos son sacar las mejores notas posibles, ganar dinero estando sentado frente al ordenador y conquistar el mundo,¡porque no! :v</p>
+	</div>
+</section>
+    <section class="section" id="proyectos">
+	<div class="container has-text-centered comfortaa">
+		<h1 class="title is-size-3">
+			Proyectos
+		</h1>
+        <img src="img/programacion.jpg" width="50%" /> 
+        <p>Les contaré mis andanzas por el mundo del python y de mis nuevos proyectos de programación</p>
 	</div>
 </section>
 <section class="section" id="estudios">
@@ -160,6 +175,17 @@
 		<h1 class="title is-size-3">
 			Idiomas
 		</h1>
+		<img src="img/idioma.jpeg"/>
+		<p>Hablo Castellano, Valenciano, Inglés y un poquito de Alemán.<p>
+	</div>
+</section>
+<section class="section" id="Hobbies">
+	<div class="container has-text-centered comfortaa">
+		<h1 class="title is-size-3">
+			Hobbies
+		</h1>
+        <img src="img/videojuego.jpg" width="50%"/>
+        <p> Me gustan los videojuegos y la comida de España y de cualquier otro sitio.</p>
 	</div>
 </section>
 <section class="section" id="estudios">
@@ -167,6 +193,9 @@
 		<h1 class="title is-size-3">
 			contacto
 		</h1>
+        <p>Pueden contactar conmigo de las diferentes maneras:mediante telefono
+                                                               , mediante cartas
+                                                               o mediante cara a cara</p>
 	</div>
 </section>
 <footer class="footer bg-pixel">
