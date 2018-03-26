@@ -2,12 +2,12 @@
 	var timer = setInterval(refresh, 5000);
 
 	var motto = [
-	"Alumnon de informática", 
+	"Alumno de informática", 
 	"Estudiando en el IES Henri Matisse",
 	"Me gustan los videojuegos",
-	"Por la mi",
+	"Por la patria",
 	"Hola",
-	"xD",
+	"XD",
 	"Yo 100% Chauchas",
 	"Make Spain Great Again"
 	];
